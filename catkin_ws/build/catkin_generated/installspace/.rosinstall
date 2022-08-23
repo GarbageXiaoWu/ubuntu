@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xiaowu/cxapp/catkin_ws/install/setup.sh
